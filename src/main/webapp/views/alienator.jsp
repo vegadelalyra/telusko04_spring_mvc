@@ -9,5 +9,7 @@
 
     Welcome Back Aliens
     praise ${name}
+
+    ${result}
 </body>
 </html>
